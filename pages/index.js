@@ -30,7 +30,7 @@ const Index = ({data}) => {
                     })}
                 <div className='text-center py-4'>
                 DRCT<br />
-                Código fonte disponível em: 
+                Código fonte disponível em: <a href='https://www.instagram.com/diegocravo/'>Aqui</a>! 
             </div>
             </div>
         </div>
